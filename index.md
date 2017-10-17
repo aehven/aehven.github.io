@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Better Software Through Pruning
 
 Binary Trees is a small software development company based in Golden, Colorado, dedicated to the
