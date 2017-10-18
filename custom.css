@@ -7,3 +7,12 @@
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
 }
+
+img {
+  border: 1px solid lightgrey;
+}
+
+p.caption {
+  font-size: 90%;
+  font-style: italic;
+}
