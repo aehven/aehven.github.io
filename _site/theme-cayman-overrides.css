@@ -1,3 +1,23 @@
 .page-header {
-    padding: 1rem 1rem;
+    padding: 0.5rem 1rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.page-header a.btn {
+  display: none;
+}
+
+.page-header .project-tagline {
+  margin-bottom: 1rem;
+}
+
+.main-content {
+  margin-top: 7rem;
+}
+
+footer {
+  display: none;
 }
