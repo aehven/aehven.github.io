@@ -15,6 +15,7 @@ img {
 p.caption {
   font-size: 90%;
   font-style: italic;
+  margin-top: 4rem;
 }
 
 p#contact-info {
