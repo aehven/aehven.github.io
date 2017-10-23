@@ -16,3 +16,12 @@ p.caption {
   font-size: 90%;
   font-style: italic;
 }
+
+p#contact-info {
+  text-align: right;
+  margin-bottom: 2rem;
+}
+
+p#contact-info a {
+  text-decoration: none;
+}

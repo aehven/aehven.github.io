@@ -18,6 +18,10 @@
   margin-top: 8rem;
 }
 
+a {
+  text-decoration: underline;
+}
+
 footer {
   display: none;
 }
