@@ -8,8 +8,14 @@
   background-image: linear-gradient(120deg, #155799, #159957);
 }
 
-img {
+img.bordered {
   border: 1px solid lightgrey;
+}
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p.caption {
